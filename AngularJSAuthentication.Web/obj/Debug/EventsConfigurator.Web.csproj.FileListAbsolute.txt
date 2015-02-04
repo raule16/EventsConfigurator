@@ -1,0 +1,11 @@
+C:\Users\RaulP.OFI\Downloads\AngularJSAuthentication-master\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll.config
+C:\Users\RaulP.OFI\Downloads\AngularJSAuthentication-master\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
+C:\Users\RaulP.OFI\Downloads\AngularJSAuthentication-master\AngularJSAuthentication-master\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
+C:\Users\RaulP.OFI\Downloads\AngularJSAuthentication-master\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
+C:\Users\RaulP.OFI\Downloads\AngularJSAuthentication-master\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb
+C:\Users\RaulP.OFI\Downloads\AngularJSAuthentication-master\AngularJSAuthentication-master\AngularJSAuthentication.Web\obj\Debug\EventsConfigurator.Web.csprojResolveAssemblyReference.cache
+C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll.config
+C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.dll
+C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
+C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
+C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb

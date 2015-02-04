@@ -1,0 +1,10 @@
+﻿{
+    "HOME": {
+        "MAESTROS": "Master Files",
+        "PROCESOS": "Procesos",
+        "INFORMES": "Reports",
+        "VOLVER": "Back",
+        "SALIR": "Logout",
+        "IDIOMA": "Language"
+    },
+}

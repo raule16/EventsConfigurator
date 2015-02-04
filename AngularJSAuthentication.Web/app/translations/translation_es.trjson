@@ -1,0 +1,10 @@
+﻿{
+    "HOME": {
+        "MAESTROS": "Ficheros Maestros",
+        "PROCESOS": "Procesos",
+        "INFORMES": "Informes",
+        "VOLVER": "Volver",
+        "SALIR": "Salir",
+        "IDIOMA": "Idioma"
+    },
+}
