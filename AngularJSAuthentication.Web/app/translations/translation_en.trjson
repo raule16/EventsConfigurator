@@ -1,10 +1,14 @@
 ﻿{
     "HOME": {
+		"HOME": "Home",
         "MAESTROS": "Master Files",
+		"WELCOME": "Welcome",
+		"LOGOUT": "Logout",
+		"LOGIN": "Login",
         "PROCESOS": "Procesos",
         "INFORMES": "Reports",
         "VOLVER": "Back",
         "SALIR": "Logout",
         "IDIOMA": "Language"
-    },
+    }
 }

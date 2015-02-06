@@ -1,10 +1,14 @@
 ﻿{
     "HOME": {
+		"HOME": "Inicio",
         "MAESTROS": "Ficheros Maestros",
+		"WELCOME": "Bienvenido",
         "PROCESOS": "Procesos",
+		"LOGOUT": "Cerrar Sesión",
+		"LOGIN": "Iniciar Sesión",
         "INFORMES": "Informes",
         "VOLVER": "Volver",
         "SALIR": "Salir",
         "IDIOMA": "Idioma"
-    },
+    }
 }

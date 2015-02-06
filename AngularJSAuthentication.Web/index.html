@@ -21,30 +21,39 @@
                 <button class="btn btn-success navbar-toggle" data-ng-click="navbarExpanded = !navbarExpanded">
                     <span class="glyphicon glyphicon-chevron-down"></span>
                 </button>
-                <a class="navbar-brand" href="#/">Home</a>
+                <a class="navbar-brand" href="#/">EventsConfigurator</a>
             </div>
+
             <div class="collapse navbar-collapse" data-collapse="!navbarExpanded">
-                <div class="btn-group">
-                    <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
-                        <i class="fa fa-language"></i>
-                        {{'HOME.IDIOMA' | translate }} <span class="caret"></span>
-                    </button>
-                    <ul class="dropdown-menu" role="menu">
-                        <li class="idiomas"><a id="search" ng-click="changeLanguage('es')"><img data-ng-src="http://localhost:32150/content/Images/es.png" /> Español - ES</a></li>
-                        <li class="idiomas"><a id="search" ng-click="changeLanguage('en')"><img data-ng-src="http://localhost:32150/content/Images/uk.png" /> Inglés - EN</a></li>
-                    </ul>
-                </div>
+
 
                 <ul class="nav navbar-nav navbar-right">
-                    <li data-ng-hide="!authentication.isAuth"><a href="#">Welcome {{authentication.userName}}</a></li>
+                    <li data-ng-hide="!authentication.isAuth"><a href="#">{{'HOME.WELCOME' | translate }} {{authentication.userName}}</a></li>
                     <li data-ng-hide="!authentication.isAuth"><a href="#/orders">My Orders</a></li>
                     <li data-ng-hide="!authentication.isAuth"><a href="#/refresh">Refresh Token</a></li>
-                    <li data-ng-hide="!authentication.isAuth"><a href="" data-ng-click="logOut()">Logout</a></li>
-                    <li data-ng-hide="authentication.isAuth"> <a href="#/login">Login</a></li>
-                    <li data-ng-hide="authentication.isAuth"> <a href="#/signup">Sign Up</a></li>
+                    <li data-ng-hide="!authentication.isAuth"><a href="" data-ng-click="logOut()">{{'HOME.LOGOUT' | translate }}</a></li>
+                    <li data-ng-hide="authentication.isAuth"> <a href="#/login">{{'HOME.LOGIN' | translate }}</a></li>
+
+                        <li>
+                            <div class="btn-group">
+                                <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" ng-cloak>
+                                    <i class="fa fa-language"></i>
+                                    {{'HOME.IDIOMA' | translate }} <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li class="idiomas"><a id="search" ng-click="changeLanguage('es')"><img data-ng-src="{{configvip.urlOfiVip}}/content/Images/es.png" /> Español - ES</a></li>
+                                    <li class="idiomas"><a id="search" ng-click="changeLanguage('en')"><img data-ng-src="{{configvip.urlOfiVip}}/content/Images/uk.png" /> Inglés - EN</a></li>
+                                </ul>
+                            </div>
+                        </li>
+
                 </ul>
+
+
             </div>
+
         </div>
+
     </div>
     <div class="container">
         <div data-ng-view="">

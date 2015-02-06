@@ -88,4 +88,5 @@ C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\Angu
 C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.API\obj\Debug\EventsConfigurator.API.csproj.GenerateResource.Cache
 C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.dll
 C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.pdb
-C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.API\obj\Debug\AngularJSAuthentication.API.Migrations.AddClientsAndRefreshTokenTables.resources
+C:\Users\RaulP.OFI\documents\visual studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.API\obj\Debug\EventsConfigurator.API.csprojResolveAssemblyReference.cache
+C:\Users\RaulP.OFI\documents\visual studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.API\obj\Debug\EventsConfigurator.API.Migrations.AddClientsAndRefreshTokenTables.resources

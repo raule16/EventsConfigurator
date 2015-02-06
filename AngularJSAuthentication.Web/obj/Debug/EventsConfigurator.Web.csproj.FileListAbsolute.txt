@@ -9,3 +9,4 @@ C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\Angu
 C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.Web\bin\AngularJSAuthentication.Web.pdb
 C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.dll
 C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.Web\obj\Debug\AngularJSAuthentication.Web.pdb
+C:\Users\RaulP.OFI\documents\visual studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.Web\obj\Debug\EventsConfigurator.Web.csprojResolveAssemblyReference.cache

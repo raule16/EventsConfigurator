@@ -53,3 +53,4 @@ C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\Angu
 C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.ResourceServer\bin\System.Web.Http.WebHost.xml
 C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.ResourceServer\obj\Debug\AngularJSAuthentication.ResourceServer.dll
 C:\Users\RaulP.OFI\Documents\Visual Studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.ResourceServer\obj\Debug\AngularJSAuthentication.ResourceServer.pdb
+C:\Users\RaulP.OFI\documents\visual studio 2013\Projects\EventsConfigurator\AngularJSAuthentication.ResourceServer\obj\Debug\EventsConfigurator.ResourceServer.csprojResolveAssemblyReference.cache
